@@ -1,5 +1,10 @@
 https://www.youtube.com/watch?v=Q2QdkiX6p_Y
 
+- O solid facilita bastante os testes unitarios, injecao de dependencia, abstrações, boas práticas,
+resumindo, ordem herda ordem, do contrario fica forçado.
+
+- S > O > L > I > D - Um depende do outro, na ordem.
+
 # SOLID
 
 S => SRP => Single Responsibility Principle
