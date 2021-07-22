@@ -82,8 +82,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1 - SRP\README.txt" />
+    <Content Include="2 - OCP\README.txt" />
     <Content Include="3 - LSP\README.txt" />
     <Content Include="4 - ISP\README.txt" />
+    <Content Include="5 - DIP\README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
