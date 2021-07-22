@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Q2QdkiX6p_Y
+
 # SOLID
 
 S => SRP => Single Responsibility Principle
